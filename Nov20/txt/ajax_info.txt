@@ -1,0 +1,6 @@
+{"coffee_list":[
+{"coffee_id":"15","name":"아이스커피","kind":"커피","price":"2900","reg_day":"등록일"},
+{"coffee_id":"16","name":"아메리카노","kind":"커피","price":"1900","reg_day":"등록일"},
+{"coffee_id":"27","name":"라떼","kind":"라떼","price":"3000","reg_day":"등록일"},
+{"coffee_id":"18","name":"자몽티","kind":"티","price":"3500","reg_day":"등록일"}
+]}
